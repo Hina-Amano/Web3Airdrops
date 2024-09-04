@@ -1,6 +1,5 @@
 
-# Striving to create the first Web3 airdrop sharing platform.  Web3空投共享平台
-
+# Web3 airdrop sharing platform
 
 
 ---
